@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "."
+
+[[redirects]]
+  from = "/blog/:slug"
+  to = "/blog/post.html?slug=:slug"
+  status = 200
+  force = false

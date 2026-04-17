@@ -1,0 +1,11 @@
+# Redirect old .html URLs to clean SPA URLs (! = force even if file exists)
+/about.html          /about          301!
+/services.html       /services       301!
+/service-areas.html  /service-areas  301!
+/contact.html        /contact        301!
+
+# Admin bypasses SPA
+/admin/*  /admin/:splat  200
+
+# SPA fallback — all other routes serve index.html
+/*        /index.html    200
