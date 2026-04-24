@@ -6,7 +6,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3002;
 const ROOT = path.join(__dirname, '..');
 
 const MIME_TYPES = {
@@ -132,7 +132,7 @@ var server = http.createServer(function (req, res) {
 });
 
 server.listen(PORT, function () {
-  console.log('\n  \x1b[1mPestNoble — SPA Dev Server\x1b[0m\n');
+  console.log('\n  \x1b[1mEcoShield Pest Control — SPA Dev Server\x1b[0m\n');
   console.log('  Site:  \x1b[36mhttp://localhost:' + PORT + '\x1b[0m');
   console.log('  Admin: \x1b[36mhttp://localhost:' + PORT + '/admin/\x1b[0m\n');
 });

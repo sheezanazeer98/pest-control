@@ -2,8 +2,10 @@
   command = "npm run build"
   publish = "."
 
-[[redirects]]
-  from = "/blog/:slug"
-  to = "/blog/post.html?slug=:slug"
-  status = 200
-  force = false
+[build.environment]
+  NODE_VERSION = "20"
+
+# Note: Netlify Forms are automatically detected from the hidden
+# <form name="contact" data-netlify="true"> element in index.html.
+# Submissions will appear in the Netlify dashboard under Forms.
+# SPA routing is handled by the _redirects file.

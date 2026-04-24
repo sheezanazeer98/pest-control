@@ -2,7 +2,7 @@
 title: "How to Protect Your Yard From Mosquitoes and Ticks"
 date: 2026-02-22
 slug: protect-your-yard-from-mosquitoes-and-ticks
-description: Keep your family safe from mosquitoes and ticks with these yard treatment tips and prevention strategies from PestNoble.
+description: Keep your family safe from mosquitoes and ticks with these yard treatment tips and prevention strategies from EcoShield Pest Control.
 image: ""
 tags:
   - mosquitoes
@@ -113,6 +113,6 @@ In addition to yard management:
 
 ## Ready to Reclaim Your Yard?
 
-PestNoble's mosquito and tick barrier treatments create protective zones around your property, dramatically reducing pest populations and disease risk. Our monthly programs keep protection consistent throughout the season.
+EcoShield Pest Control's mosquito and tick barrier treatments create protective zones around your property, dramatically reducing pest populations and disease risk. Our monthly programs keep protection consistent throughout the season.
 
 **Call us at (570) 604-4680 or [schedule your treatment](/contact) today.** Serving families throughout Northeastern Pennsylvania.

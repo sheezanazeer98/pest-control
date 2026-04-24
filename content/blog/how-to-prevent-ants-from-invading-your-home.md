@@ -2,7 +2,7 @@
 title: How to Prevent Ants From Invading Your Home This Spring
 date: 2026-03-22
 slug: how-to-prevent-ants-from-invading-your-home
-description: Learn effective strategies to keep ants out of your home this spring. Prevention tips from the pest control experts at PestNoble.
+description: Learn effective strategies to keep ants out of your home this spring. Prevention tips from the pest control experts at EcoShield Pest Control.
 image: ""
 tags:
   - prevention
@@ -12,7 +12,7 @@ tags:
 
 As temperatures rise in Northeastern Pennsylvania, ants become one of the most common household invaders. From tiny sugar ants trailing across your kitchen counter to carpenter ants tunneling through your wood structures, these persistent pests can turn a peaceful home into a frustrating battleground.
 
-At PestNoble, we treat ant infestations throughout NEPA every spring and summer. Here's how to keep them out in the first place.
+At EcoShield Pest Control, we treat ant infestations throughout NEPA every spring and summer. Here's how to keep them out in the first place.
 
 ## Why Ants Invade in Spring
 
@@ -76,6 +76,6 @@ DIY prevention works well for keeping ants at bay, but if you're already seeing 
 
 ## Need Help With an Ant Problem?
 
-PestNoble provides targeted ant control treatments that eliminate colonies at the source, not just the ants you can see. We also create prevention barriers to keep them from coming back.
+EcoShield Pest Control provides targeted ant control treatments that eliminate colonies at the source, not just the ants you can see. We also create prevention barriers to keep them from coming back.
 
 **Call us at (570) 604-4680 or [request a free inspection](/contact) to get started.** Serving homes throughout Northeastern Pennsylvania.

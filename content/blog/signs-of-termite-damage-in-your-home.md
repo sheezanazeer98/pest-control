@@ -73,6 +73,6 @@ Annual termite inspections are the most cost-effective way to protect your home.
 
 ## Worried About Termites?
 
-PestNoble offers free termite inspections for homeowners throughout Northeastern Pennsylvania. Our detection methods identify termite activity early, and our treatment plans create lasting barriers to protect your home.
+EcoShield Pest Control offers free termite inspections for homeowners throughout Northeastern Pennsylvania. Our detection methods identify termite activity early, and our treatment plans create lasting barriers to protect your home.
 
 **Call us at (570) 604-4680 or [schedule a free inspection](/contact) today.** Don't wait until the damage is done.

@@ -1,13 +1,13 @@
-# PestNoble — Premium Pest Control Website
+# EcoShield Pest Control — Eco-Friendly Pest Control Website
 
-Professional website for **PestNoble**, a licensed pest control company serving Northeastern Pennsylvania. Built as a single-page application with a config-driven architecture — fully reusable for any local service business.
+Professional website for **EcoShield Pest Control**, a licensed pest control company serving Northeastern Pennsylvania. Built as a single-page application with a config-driven architecture — fully reusable for any local service business.
 
-**Live site:** [www.pestnoble.com](https://www.pestnoble.com)
+**Live site:** [www.ecoshieldpest.com](https://www.ecoshieldpest.com)
 
 ## Tech Stack
 
 - **Single-Page Application** — Client-side routing, one `index.html` with `<template>` elements for each page
-- **Tailwind CSS 3.4** — Utility-first CSS with custom crimson red/orange accent color theme
+- **Tailwind CSS 3.4** — Utility-first CSS with custom reddish primary + orange accent color theme
 - **Vanilla JavaScript** — Zero frontend framework dependencies
 - **Decap CMS** — Git-based headless CMS for managing blog posts
 - **Netlify** — Hosting, forms, identity, CI/CD, and SPA routing

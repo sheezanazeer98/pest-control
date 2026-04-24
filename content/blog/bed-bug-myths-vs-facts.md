@@ -81,6 +81,6 @@ Now that we've cleared up the myths, here are real prevention strategies:
 
 ## Think You Have Bed Bugs?
 
-Don't panic — and don't try to handle it alone. PestNoble's bed bug treatment program includes thorough inspection, professional-grade treatment, and follow-up visits to ensure complete eradication.
+Don't panic — and don't try to handle it alone. EcoShield Pest Control's bed bug treatment program includes thorough inspection, professional-grade treatment, and follow-up visits to ensure complete eradication.
 
 **Call us at (570) 604-4680 or [schedule a free inspection](/contact).** We serve all of Northeastern Pennsylvania.

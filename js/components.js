@@ -83,8 +83,22 @@
         <div class="container-site">
           <div class="flex items-center justify-between h-16 lg:h-20">
             <!-- Logo -->
-            <a href="/" class="flex items-center gap-2 group">
-              <img src="/images/logo.png" alt="${C.companyName}" class="h-10 lg:h-20 w-auto max-w-[180px] lg:max-w-[220px]">
+            <a href="/" class="flex items-center gap-2.5 group" aria-label="${C.companyName} — Home">
+              <svg class="w-10 h-10 lg:w-11 lg:h-11 transition-transform group-hover:scale-105 shrink-0" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M24 3L7 9v12c0 10.5 7.5 20.5 17 23 9.5-2.5 17-12.5 17-23V9L24 3z" fill="url(#navShieldGrad)" stroke="#b91c1c" stroke-width="1.5"/>
+                <path d="M24 14c-3 3-6 5-6 10 0 4 3 7 6 7s6-3 6-7c0-5-3-7-6-10z" fill="#ffffff" opacity="0.95"/>
+                <path d="M24 16v13" stroke="#991b1b" stroke-width="1.2" stroke-linecap="round"/>
+                <defs>
+                  <linearGradient id="navShieldGrad" x1="7" y1="3" x2="41" y2="44" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#ef4444"/>
+                    <stop offset="1" stop-color="#7f1d1d"/>
+                  </linearGradient>
+                </defs>
+              </svg>
+              <span class="flex flex-col leading-none">
+                <span class="text-xl lg:text-2xl font-extrabold tracking-tight text-gray-900">Eco<span class="text-primary-600">Shield</span></span>
+                <span class="text-[9px] lg:text-[10px] font-semibold text-gray-500 tracking-[0.22em] uppercase mt-1">Pest Control</span>
+              </span>
             </a>
 
             <!-- Desktop Nav -->
@@ -158,8 +172,18 @@
             <!-- Company Info -->
             <div>
               <a href="/" class="inline-flex items-center gap-2.5 mb-4 group">
-                <svg class="w-9 h-9 text-primary-500 group-hover:text-primary-400 transition-colors" viewBox="0 0 40 40" fill="none"><path d="M20 2L6 8v10c0 11 14 18 14 18s14-7 14-18V8L20 2z" stroke="currentColor" stroke-width="2.5" fill="none"/><circle cx="20" cy="19" r="5" fill="currentColor" opacity="0.2"/><path d="M20 16a3 3 0 100 6 3 3 0 000-6z" fill="currentColor"/><line x1="16" y1="14" x2="24" y2="22" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-                <span class="text-xl font-extrabold text-white tracking-tight">Pest<span class="text-primary-400">Noble</span></span>
+                <svg class="w-10 h-10 transition-transform group-hover:scale-105" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M24 3L7 9v12c0 10.5 7.5 20.5 17 23 9.5-2.5 17-12.5 17-23V9L24 3z" fill="url(#footerShieldGrad)" stroke="#ef4444" stroke-width="1.5"/>
+                  <path d="M24 14c-3 3-6 5-6 10 0 4 3 7 6 7s6-3 6-7c0-5-3-7-6-10z" fill="#ffffff" opacity="0.95"/>
+                  <path d="M24 16v13" stroke="#991b1b" stroke-width="1.2" stroke-linecap="round"/>
+                  <defs>
+                    <linearGradient id="footerShieldGrad" x1="7" y1="3" x2="41" y2="44" gradientUnits="userSpaceOnUse">
+                      <stop offset="0" stop-color="#dc2626"/>
+                      <stop offset="1" stop-color="#7f1d1d"/>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span class="text-xl font-extrabold text-white tracking-tight leading-none">Eco<span class="text-primary-400">Shield</span><span class="block text-[10px] font-semibold text-gray-400 tracking-[0.25em] uppercase mt-0.5">Pest Control</span></span>
               </a>
               <p class="text-gray-400 text-sm mb-4">${C.description}</p>
               <div class="flex gap-3">

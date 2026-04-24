@@ -99,6 +99,6 @@ In Pennsylvania, many wildlife species are protected by state and federal laws. 
 
 ## Hearing Noises in Your Attic?
 
-PestNoble provides humane wildlife removal services throughout Northeastern Pennsylvania. We safely remove animals, seal entry points, and clean up affected areas to restore your peace of mind.
+EcoShield Pest Control provides humane wildlife removal services throughout Northeastern Pennsylvania. We safely remove animals, seal entry points, and clean up affected areas to restore your peace of mind.
 
 **Call us at (570) 604-4680 or [request a free inspection](/contact).** We're available for emergency wildlife situations.

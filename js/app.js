@@ -1,5 +1,5 @@
 /**
- * PestNoble — Single Page Application
+ * EcoShield Pest Control — Single Page Application
  * Client-side router, page initialization, shared behaviors.
  */
 (function () {
@@ -16,13 +16,13 @@
 
   // ============================= ROUTES =============================
   var ROUTES = [
-    { id: 'home',          path: '/',              nav: 'home',          title: 'PestNoble | Professional Pest Control in NEPA',                                                         desc: 'PestNoble — Professional pest control company serving Northeastern Pennsylvania. Residential, commercial, termite, rodent, bed bug, mosquito, and wildlife services. Call (570) 604-4680.' },
-    { id: 'about',         path: '/about',         nav: 'about',         title: 'About Us | PestNoble',                                                                                   desc: 'Learn about PestNoble — a licensed and certified pest control company proudly serving Northeastern Pennsylvania with effective, eco-friendly solutions.' },
-    { id: 'services',      path: '/services',      nav: 'services',      title: 'Pest Control Services | PestNoble',                                                                      desc: 'Professional pest control services in NEPA — general pest, termite, rodent, bed bug, mosquito & tick, and wildlife removal. Call (570) 604-4680.' },
-    { id: 'service-areas', path: '/service-areas',  nav: 'service-areas', title: 'Service Areas | PestNoble',                                                                              desc: 'PestNoble proudly serves Scranton, Wilkes-Barre, Hazleton, Stroudsburg, Pocono Mountains, and all of Northeastern Pennsylvania. Call (570) 604-4680.' },
-    { id: 'contact',       path: '/contact',       nav: 'contact',       title: 'Contact Us | PestNoble',                                                                                 desc: 'Contact PestNoble for a free pest inspection. Call (570) 604-4680 or fill out our online form. Serving Scranton, Wilkes-Barre, and all of Northeastern PA.' },
-    { id: 'blog',          path: '/blog',          nav: 'blog',          title: 'Blog | PestNoble',                                                                                       desc: 'Pest control tips, prevention guides, and industry news from PestNoble. Stay informed about protecting your home from pests.' },
-    { id: 'blog-post',     path: '/blog/:slug',    nav: 'blog',          title: 'Blog Post | PestNoble',                                                                                  desc: 'Read the latest pest control tips and news from PestNoble.' },
+    { id: 'home',          path: '/',              nav: 'home',          title: 'EcoShield Pest Control | Eco-Friendly Pest Control in NEPA',                                              desc: 'EcoShield Pest Control — Professional eco-friendly pest control company serving Northeastern Pennsylvania. Residential, commercial, termite, rodent, bed bug, mosquito, and wildlife services. Call (570) 604-4680.' },
+    { id: 'about',         path: '/about',         nav: 'about',         title: 'About Us | EcoShield Pest Control',                                                                      desc: 'Learn about EcoShield Pest Control — a licensed and certified pest control company proudly serving Northeastern Pennsylvania with effective, eco-friendly solutions.' },
+    { id: 'services',      path: '/services',      nav: 'services',      title: 'Pest Control Services | EcoShield Pest Control',                                                         desc: 'Professional eco-friendly pest control services in NEPA — general pest, termite, rodent, bed bug, mosquito & tick, and wildlife removal. Call (570) 604-4680.' },
+    { id: 'service-areas', path: '/service-areas',  nav: 'service-areas', title: 'Service Areas | EcoShield Pest Control',                                                                 desc: 'EcoShield Pest Control proudly serves Scranton, Wilkes-Barre, Hazleton, Stroudsburg, Pocono Mountains, and all of Northeastern Pennsylvania. Call (570) 604-4680.' },
+    { id: 'contact',       path: '/contact',       nav: 'contact',       title: 'Contact Us | EcoShield Pest Control',                                                                    desc: 'Contact EcoShield Pest Control for a free pest inspection. Call (570) 604-4680 or fill out our online form. Serving Scranton, Wilkes-Barre, and all of Northeastern PA.' },
+    { id: 'blog',          path: '/blog',          nav: 'blog',          title: 'Blog | EcoShield Pest Control',                                                                          desc: 'Pest control tips, prevention guides, and industry news from EcoShield Pest Control. Stay informed about protecting your home from pests.' },
+    { id: 'blog-post',     path: '/blog/:slug',    nav: 'blog',          title: 'Blog Post | EcoShield Pest Control',                                                                     desc: 'Read the latest pest control tips and news from EcoShield Pest Control.' },
   ];
 
   // ============================= UTILITIES =============================
@@ -324,7 +324,7 @@
 
     var mapContainer = document.getElementById('service-areas-map');
     if (mapContainer) {
-      mapContainer.innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384828.65!2d-75.85!3d41.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d2f9f9fafcf3%3A0x93eb0c3c1e22b4dc!2sNortheastern%20Pennsylvania!5e0!3m2!1sen!2sus!4v1" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="PestNoble service area map"></iframe>';
+      mapContainer.innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384828.65!2d-75.85!3d41.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d2f9f9fafcf3%3A0x93eb0c3c1e22b4dc!2sNortheastern%20Pennsylvania!5e0!3m2!1sen!2sus!4v1" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="EcoShield Pest Control service area map"></iframe>';
     }
 
     var servicesMini = document.getElementById('services-mini');
@@ -351,7 +351,7 @@
 
     var mapContainer = document.getElementById('contact-map');
     if (mapContainer) {
-      mapContainer.innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384828.65!2d-75.85!3d41.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d2f9f9fafcf3%3A0x93eb0c3c1e22b4dc!2sNortheastern%20Pennsylvania!5e0!3m2!1sen!2sus!4v1" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="PestNoble service area map"></iframe>';
+      mapContainer.innerHTML = '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d384828.65!2d-75.85!3d41.35!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d2f9f9fafcf3%3A0x93eb0c3c1e22b4dc!2sNortheastern%20Pennsylvania!5e0!3m2!1sen!2sus!4v1" width="100%" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="EcoShield Pest Control service area map"></iframe>';
     }
 
     initContactForm();

@@ -97,6 +97,6 @@ If you're seeing mice regularly despite your prevention efforts, you likely have
 
 ## Need Help With Mice?
 
-PestNoble specializes in comprehensive rodent control for homes across Northeastern Pennsylvania. We don't just remove the mice — we seal their entry points and create lasting barriers to keep them out.
+EcoShield Pest Control specializes in comprehensive rodent control for homes across Northeastern Pennsylvania. We don't just remove the mice — we seal their entry points and create lasting barriers to keep them out.
 
 **Call us at (570) 604-4680 or [request a free inspection](/contact) today.** Serving Scranton, Wilkes-Barre, and all of NEPA.

@@ -1,7 +1,7 @@
 {
-  "name": "pestnoble",
+  "name": "ecoshield-pest-control",
   "version": "1.0.0",
-  "description": "Professional static website for PestNoble — premium pest control services in Northeastern Pennsylvania",
+  "description": "Professional static website for EcoShield Pest Control — eco-friendly pest control services in Northeastern Pennsylvania",
   "scripts": {
     "build:css": "npx tailwindcss -i ./css/input.css -o ./css/styles.css --minify",
     "build:blog": "node scripts/build-blog.js",

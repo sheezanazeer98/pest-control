@@ -3,13 +3,13 @@
  * This config-driven approach makes the template reusable for any service business.
  */
 window.SITE_CONFIG = {
-  companyName: 'PestNoble',
-  shortName: 'PestNoble',
-  tagline: 'Premium Pest Control Services in Northeastern Pennsylvania',
-  description: 'Professional pest control company serving NEPA. Residential, commercial, termite, rodent, bed bug, mosquito, and wildlife services.',
+  companyName: 'EcoShield Pest Control',
+  shortName: 'EcoShield',
+  tagline: 'Eco-Friendly Pest Control Services in Northeastern Pennsylvania',
+  description: 'Professional eco-friendly pest control company serving NEPA. Residential, commercial, termite, rodent, bed bug, mosquito, and wildlife services.',
   phone: '(570) 604-4680',
   phoneRaw: '5706044680',
-  email: 'contact@pestnoble.com',
+  email: 'contact@ecoshieldpest.com',
   address: 'Northeastern Pennsylvania',
   hours: 'Mon–Fri: 7AM–6PM | Sat: 8AM–2PM | Sun: Emergency Only',
   license: 'Licensed & Certified',
@@ -94,13 +94,13 @@ window.SITE_CONFIG = {
   ],
 
   testimonials: [
-    { name: 'Sarah M.', location: 'Scranton, PA', text: 'PestNoble completely eliminated our ant problem. The technician was professional, explained everything, and the results were immediate. Highly recommend!', rating: 5 },
-    { name: 'James T.', location: 'Wilkes-Barre, PA', text: 'We had a serious mouse problem in our attic. PestNoble not only removed them all but sealed every entry point. Haven\'t seen one since!', rating: 5 },
-    { name: 'Linda K.', location: 'Stroudsburg, PA', text: 'Their mosquito barrier treatment transformed our backyard. We can finally enjoy our patio again without being eaten alive. Amazing service!', rating: 5 },
+    { name: 'Sarah M.', location: 'Scranton, PA', text: 'EcoShield completely eliminated our ant problem with eco-friendly treatments. The technician was professional, explained everything, and the results were immediate. Highly recommend!', rating: 5 },
+    { name: 'James T.', location: 'Wilkes-Barre, PA', text: 'We had a serious mouse problem in our attic. EcoShield Pest Control not only removed them all but sealed every entry point. Haven\'t seen one since!', rating: 5 },
+    { name: 'Linda K.', location: 'Stroudsburg, PA', text: 'Their mosquito barrier treatment transformed our backyard. Safe for the kids and pets — we can finally enjoy our patio again. Amazing service!', rating: 5 },
   ],
 
   seo: {
-    siteUrl: 'https://www.pestnoble.com',
+    siteUrl: 'https://www.ecoshieldpest.com',
     ogImage: '/images/logo.png',
   },
 };

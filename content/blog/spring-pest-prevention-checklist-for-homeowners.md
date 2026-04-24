@@ -103,6 +103,6 @@ Prevention is always cheaper and easier than treatment. By spending a few hours 
 
 ## Want Professional Help?
 
-PestNoble offers comprehensive seasonal pest prevention plans for homes throughout Northeastern Pennsylvania. Our programs include regular treatments, inspections, and unlimited service calls between visits.
+EcoShield Pest Control offers comprehensive seasonal pest prevention plans for homes throughout Northeastern Pennsylvania. Our programs include regular treatments, inspections, and unlimited service calls between visits.
 
 **Call us at (570) 604-4680 or [request a free inspection](/contact) to get started.** Let's make this the year pests stay outside where they belong.
